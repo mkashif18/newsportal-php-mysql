@@ -18,7 +18,7 @@ A simple and responsive News Portal web application built with PHP and MySQL.
 ## Installation Instructions
 
 1. **Download the project zip file.**
-2. **Extract the file** and rename the folder to 'newsportal' then copy the `newsportal` folder.
+2. **Extract the file** and rename the folder to `newsportal` then copy the `newsportal` folder.
 3. **Paste it into your server's root directory:**
    - For XAMPP: `xampp/htdocs/`
    - For WAMP: `wamp/www/`
